@@ -185,7 +185,7 @@ layer {
   name: "conv4"
   type: "Convolution"
   bottom: "conv3"
-  top: "conv3"
+  top: "conv4"
   param {
     lr_mult: 1
     decay_mult: 1
