@@ -1,4 +1,1 @@
-# learning-notebook
-something about study
-zhengzibing wansui
-How to use Github?
+This repository records the learning process of deep learning. It includes Paper, Code, Application and so on. Start from today!
