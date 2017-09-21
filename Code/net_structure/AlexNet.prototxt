@@ -326,6 +326,12 @@ layer {
   }
 }
 layer {
+  name: "relu7"
+  type: "ReLU"
+  bottom: "fc7"
+  top: "fc7"
+}
+layer {
   name: "drop7"
   type: "Dropout"
   bottom: "fc7"
