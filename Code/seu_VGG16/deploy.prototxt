@@ -97,7 +97,7 @@ layer {
 }
 layer {
   name: "conv3_1"
-  type: "convolution"
+  type: "Convolution"
   bottom: "pool2"
   top: "conv3_1"
   convolution_param {
@@ -238,7 +238,7 @@ layer {
 }
 layer {
   name: "conv5_2"
-  type: "convolution"
+  type: "Convolution"
   bottom: "conv5_1"
   top: "conv5_2"
   convolution_param {
