@@ -1,0 +1,3 @@
+The reference websites of semantic segmentation as follows:
+https://zhuanlan.zhihu.com/p/27806801
+http://blog.csdn.net/cicibabe/article/details/71173965?locationNum=12&fps=1
